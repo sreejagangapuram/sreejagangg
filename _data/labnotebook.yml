@@ -1,0 +1,37 @@
+# CSP course meta data
+Unit1:
+  title: Introduction to Tools and Resources
+  start: 0
+  end: 3
+Unit2:
+  title: Java Mini-labs
+  start: 4
+  end: 7
+Unit3:
+  title:  Individual/Team Projects and N@tM
+  start: 8
+  end: 12
+Unit4:
+  title: College Board Teaching and Study 
+  start: 13
+  end: 16
+Unit5:
+  title: Passion Projects
+  start: 17
+  end: 20
+Unit6:
+  title: Creative Development and N@tM
+  start: 21
+  end: 24
+Unit7: 
+  title: Data Structures
+  start: 25
+  end: 29
+Unit8:
+  title: AP Weeks
+  start: 30
+  end: 32
+Unit9:
+  title: Final Project and N@tM
+  start: 33
+  end: 36
