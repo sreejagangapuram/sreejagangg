@@ -1,0 +1,15 @@
+{
+  "name": "sreejagangg-1",
+  "version": "1.0.0",
+  "description": "> This site is intended for Students.   This is to record plans, complete hacks, and do work for your learnings. - This can be customized to support computer science as you work through pathway (JavaScript, Python/Flask, Java/Spring) - All tangible artifact work is in a _posts or in a _notebooks.   - Front matter (aka meta data) in ipynb and md files is used to organize information according to week and column in running web site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
